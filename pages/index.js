@@ -1,4 +1,4 @@
-import Signin from './login';
+import Signin from './signup';
 
 export default function Root(){
     return(

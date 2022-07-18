@@ -31,7 +31,7 @@ function Signin() {
             </label>
           </div>
           <button className="w-100 btn btn-lg btn-primary" type="submit">Sign Up</button>
-          <Link href="/signup"><a><h4>Already have an account?</h4></a></Link>
+          <Link href="/login"><a><h4>Already have an account?</h4></a></Link>
         </form>
       </main>
 
